@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia Martínez</h1>
 <h3 align="center">A passionate frontend developer from Santiago de Chile</h3>
 
-- 🔭 I’m currently working on [Encriptador](https://github.com/CynthMartz/encriptador)
+- 🔭 I’m currently working on [Dolcatta](https://github.com/CynthMartz/Dolcatta)
 
 - 👨‍💻 All of my projects are available at [https://github.com/CynthMartz](https://github.com/CynthMartz)
 
